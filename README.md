@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A bird’s eye view of my professional and educational journey](https://medium.com/@nandineebhatt07/a-birds-eye-view-of-my-professional-and-educational-journey-2b1bf4601f49?source=rss-394009530ebd------2)
 - [The hidden pearls of a master’s degree](https://medium.com/@nandineebhatt07/the-hidden-pearls-of-a-masters-degree-d491566207dd?source=rss-394009530ebd------2)
 - [Une introduction aux diplômes industrielle par une testeuse des logiciels en herbe](https://medium.com/@nandineebhatt07/une-introduction-aux-dipl%C3%B4mes-industrielle-par-une-testeuse-des-logiciels-en-herbe-0ada6a2826ef?source=rss-394009530ebd------2)
 - [A software tester’s introduction to industry certifications](https://medium.com/@nandineebhatt07/a-software-testers-introduction-to-industry-certifications-2705ce398636?source=rss-394009530ebd------2)
