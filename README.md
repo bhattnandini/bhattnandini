@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nandinee Bhatt</h1>
+<h1 align="center">Hi 👋, I'm Nandini Bhatt</h1>
 <h3 align="center">A passionate developer and tester from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandineebhatt&label=Profile%20views&color=0e75b6&style=flat" alt="nandineebhatt" /> </p>
