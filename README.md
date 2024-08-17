@@ -26,13 +26,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 My personal website [https://nandineeb.appstasy.in](https://nandineeb.appstasy.in)
+- 👨‍💻 My personal website [https://nandinibhatt.me](https://nandinibhatt.me)
 
 - 📝 I regularly write articles on [https://medium.com/@nandineebhatt07](https://medium.com/@nandineebhatt07)
 
 - 📫 How to reach me **nandineebhatt07@gmail.com**
 
-- 📄 Know about my experiences [https://assets.appstasy.in/nandinee/cv/cv_en.pdf](https://assets.appstasy.in/nandinee/cv/cv_en.pdf)
+- 📄 My English CV [https://assets.nandinibhatt.me/cv/cv_en.pdf](https://assets.nandinibhatt.me/cv/cv_en.pdf)
+  
+- 📄 My French CV [https://assets.nandinibhatt.me/cv/cv_fr.pdf](https://assets.nandinibhatt.me/cv/cv_fr.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
