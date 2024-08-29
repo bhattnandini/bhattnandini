@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My personal website [https://nandinibhatt.me](https://nandinibhatt.me)
 
-- 📝 I regularly write articles on [https://medium.com/@nandineebhatt07](https://medium.com/@nandineebhatt07)
+- 📝 I regularly write articles on [https://blogs.nandinibhatt.me](https://blogs.nandinibhatt.me)
 
 - 📫 How to reach me **reach@nandinibhatt.me**
 
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/njbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njbhatt" height="30" width="40" /></a>
-<a href="https://medium.com/@nandineebhatt07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nandineebhatt07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nandineebhatt9140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nandineebhatt9140" height="30" width="40" /></a>
+<a href="https://blogs.nandinibhatt.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nandineebhatt07" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@nandinibhatt0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nandineebhatt9140" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
