@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A CI/CD pipeline to publish LaTeX documents](https://medium.com/@nandineebhatt07/a-ci-cd-pipeline-to-publish-latex-documents-d35d9eba9300?source=rss-394009530ebd------2)
 - [Job Hunting in Canada](https://medium.com/@nandineebhatt07/job-hunting-in-canada-2ec31557f575?source=rss-394009530ebd------2)
 - [A bird’s eye view of my professional and educational journey](https://medium.com/@nandineebhatt07/a-birds-eye-view-of-my-professional-and-educational-journey-2b1bf4601f49?source=rss-394009530ebd------2)
 - [Tips on pursuing Higher Education](https://medium.com/@nandineebhatt07/the-hidden-pearls-of-a-masters-degree-d491566207dd?source=rss-394009530ebd------2)
-- [Une introduction aux diplômes industrielle par une testeuse des logiciels en herbe](https://medium.com/@nandineebhatt07/une-introduction-aux-dipl%C3%B4mes-industrielle-par-une-testeuse-des-logiciels-en-herbe-0ada6a2826ef?source=rss-394009530ebd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
