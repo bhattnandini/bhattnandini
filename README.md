@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your First CI/CD Pipeline in Azure DevOps &lpar;and the Pitfalls That Break It&rpar;](https://medium.com/@nandineebhatt07/your-first-ci-cd-pipeline-in-azure-devops-and-the-pitfalls-that-break-it-ec1caf7c5528?source=rss-394009530ebd------2)
 - [CI/CD Demystified: A Beginner’s Guide to DevOps Automation](https://medium.com/@nandineebhatt07/ci-cd-demystified-a-beginners-guide-to-devops-automation-e7551af60513?source=rss-394009530ebd------2)
 - [A memorable experience at Nortek Air Solutions](https://medium.com/@nandineebhatt07/a-memorable-experience-at-nortek-air-solutions-acd4966e5ac8?source=rss-394009530ebd------2)
 - [A CI/CD pipeline to publish LaTeX documents](https://medium.com/@nandineebhatt07/a-ci-cd-pipeline-to-publish-latex-documents-d35d9eba9300?source=rss-394009530ebd------2)
-- [Job Hunting in Canada](https://medium.com/@nandineebhatt07/job-hunting-in-canada-2ec31557f575?source=rss-394009530ebd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
